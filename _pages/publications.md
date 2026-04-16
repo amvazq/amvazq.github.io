@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <!-- _pages/publications.md -->
-
+Hard at work!
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
