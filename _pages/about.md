@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Never A Dull Day
 
 profile:
   align: right
-  image: pssl_profile_pic.jpeg
+  image: E8920397-4340-4C61-98AD-35105E5D544D_1_102_o.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office  : New Engineering Building (NEB) 485</p>
