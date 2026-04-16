@@ -6,10 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pssl_profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: NEB 485</p>
+    <p>Office  : New Engineering Building (NEB) 485</p>
+    <p>Address : 1064 Center Drive Gainesville, Florida, 32611</p>
+    <p>Email   : amvazquez@ufl.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
