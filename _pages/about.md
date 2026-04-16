@@ -9,9 +9,8 @@ profile:
   image: E8920397-4340-4C61-98AD-35105E5D544D_1_102_o.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office  : New Engineering Building (NEB) 485</p>
-    <p>Address : 1064 Center Drive Gainesville, Florida, 32611</p>
-    <p>Email   : amvazquez@ufl.edu</p>
+    <p>New Engineering Building (NEB) 485</p>
+    <p>1064 Center Drive Gainesville, Florida, 32611</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
