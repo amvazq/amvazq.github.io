@@ -9,7 +9,7 @@ profile:
   image: E8920397-4340-4C61-98AD-35105E5D544D_1_102_o.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: New Engineering Building (NEB) 485</p>
+    <p>Office: NEB 485</p>
     <p>Address: 1064 Center Drive Gainesville, Florida, 32611</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,7 +28,7 @@ latest_posts:
 
 Hi, I’m Amanda!
 
-I am a PhD student in Aerospace Engineering in the Department of Mechanical and Aerospace Engineering at the [University of Florida](https://mae.ufl.edu/), working in the Precision Space Systems Lab([PSSL](https://pssl.mae.ufl.edu/)) under the guidance of [Dr. John W. Conklin](https://scholar.google.com/citations?user=C-oDA-AAAAAJ&hl=en). 
+I am a PhD student in Aerospace Engineering in the Department of Mechanical and Aerospace Engineering at the [University of Florida](https://mae.ufl.edu/), working in the Precision Space Systems Lab ([PSSL](https://pssl.mae.ufl.edu/)) under the guidance of [Dr. John W. Conklin](https://scholar.google.com/citations?user=C-oDA-AAAAAJ&hl=en). 
 
 I began my academic career in a very different space, studying trumpet jazz performance major at [Florida State University](https://music.fsu.edu/programs/jazz/) before transitioning into physics and astronomy. I completed my undergraduate degree in Physics with a specialization in Astronomy, along with minors in Mathematics and Music, at the [University of Central Florida](https://sciences.ucf.edu/physics/). Following this, I joined the North American Nanohertz Observatory for Gravitational Waves ([NANOGrav](https://nanograv.org/)) and International Pulsar Timing Array ([IPTA](https://ipta4gw.org/)) Collaborations and spent two years as a research assistant under [Dr. Joris Verbiest](https://scholar.google.com/citations?user=DKNMaqQAAAAJ&hl=en&oi=ao), where I developed a simulator for ultra-wideband pulsar timing observations using Python and command-line tools.
 
